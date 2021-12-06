@@ -10,11 +10,9 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Beer-CAT
+# Header 1
 
-Beer-CAT은 Anti-root 팀 산하에 존재하는 DFIR 팀입니다.
-
-DFIR과 관련된 다양한 연구 및 프로젝트를 진행하고 있습니다.
+This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
 ## Header 2
 
