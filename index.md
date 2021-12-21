@@ -10,12 +10,18 @@ DFIR과 관련된 다양한 연구 및 프로젝트를 진행하고 있습니다
 
 ## 활동
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+- 한달 간격으로 DFIR과 관련된 연구를 각자 진행하고 이를 발표
+- DFIR 프로젝트 및 스터디 진행
 
 ## 팀원 정보
 
+- 이진우 (solrukas)
+	- 블로그 :
+	- 이메일 : 
+	
+- 이창엽 (YeoPEVA)
+	- 블로그 :
+	- 이메일 : 
 
 ## 연혁
 
